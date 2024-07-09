@@ -18,6 +18,8 @@ BTL1 is designed to train technical defenders that are capable of defending netw
 - Conducting threat actor research
 
 <a href="https://github.com/AaronRMartinez/SecurityBlueTeam/blob/main/Blue%20Team%20Level%201-Certification.pdf">Blue Team Level One Certificate</a>
+<a href="https://www.securityblue.team/why-btl1/">Blue Team Level One Website</a>
+
 
 ### Languages
 - **Python**
