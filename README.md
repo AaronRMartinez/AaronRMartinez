@@ -17,7 +17,7 @@ BTL1 is designed to train technical defenders that are capable of defending netw
 - Log and network traffic analysis including malware infections
 - Conducting threat actor research
 
-<a href="https://github.com/AaronRMartinez/SecurityBlueTeam/blob/main/Blue%20Team%20Level%201-Certification.pdf">View Certificate</a>
+<a href="https://github.com/AaronRMartinez/SecurityBlueTeam/blob/main/Blue%20Team%20Level%201-Certification.pdf">Blue Team Level One Certificate</a>
 
 ### Languages
 - **Python**
