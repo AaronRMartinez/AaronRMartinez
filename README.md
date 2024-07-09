@@ -9,7 +9,8 @@ My interest in technology has led me to develop a passion for cybersecurity, and
 ## 📖 Skills
 
 ### Languages
-Python, Javascript
+- **Python**
+- **Javascript**
 
 | Skill                                         | Associated Project(s)         |
 |-----------------------------------------------|----------------------------|
