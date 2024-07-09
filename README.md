@@ -1,12 +1,12 @@
-# Hello, I'm Aaron
+# 👋 Hello, I'm Aaron
 
 Passionate and driven aspiring cybersecurity professional with a strong commitment to continuous learning and staying current of the latest industry trends. Equipped with foundational knowledge from self-directed studies, relevant courses, and practical projects.
 
-## Objective
+## 🎯 Objective
 
 My interest in technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC).
 
-## Skills
+## 📖 Skills
 
 ### Languages
 Python, Javascript
@@ -16,7 +16,7 @@ Python, Javascript
 | Blue Team Online Labs                         | <a href="https://google.com">BTLO Investi</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 
-## Tools
+## 🛠️ Tools
 
 ### Incident Response and Forensic Investigation
 <div>
