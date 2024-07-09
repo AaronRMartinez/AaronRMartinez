@@ -13,7 +13,7 @@ Python, Javascript
 
 | Skill                                         | Associated Project(s)         |
 |-----------------------------------------------|----------------------------|
-| Blue Team Online Labs                         | <a href="https://google.com">BTLO Investi</a>|
+| Phishing Analysis                         | <a href="https://github.com/AaronRMartinez/Phishing-Analysis/tree/mai)">BTLO Investigations/Challenges</a>|
 | Python | <a href="https://github.com/AaronRMartinez/MITx-6.00.1x-Introduction-to-Computer-Science-and-Programming-Using-Python">Python Functions</a>|
 
 ## 🛠️ Tools
