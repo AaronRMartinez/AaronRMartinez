@@ -14,9 +14,9 @@ My interest in technology has led me to develop a passion for cybersecurity, and
 
 | Skill                                         | Associated Project(s)         |
 |-----------------------------------------------|----------------------------|
-| Phishing Analysis                         | <a href="https://github.com/AaronRMartinez/Phishing-Analysis/tree/mai)">BTLO Investigations/Challenges</a>|
 | Python | <a href="https://github.com/AaronRMartinez/MITx-6.00.1x-Introduction-to-Computer-Science-and-Programming-Using-Python">Python Functions</a>|
-| Digital Forensics | <a href="https://github.com/AaronRMartinez/Phishing-Analysis/tree/mai)">BTLO Investigations/Challenges</a> |
+| Phishing Analysis                         | <a href="https://github.com/AaronRMartinez/Phishing-Analysis/tree/mai)">BTLO Investigations/Challenges</a>|
+| Digital Forensics | <a href="https://github.com/AaronRMartinez/Forensic-Analysis">BTLO Investigations/Challenges</a> |
 
 ## 🛠️ Tools
 
