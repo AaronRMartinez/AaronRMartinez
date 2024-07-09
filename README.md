@@ -10,6 +10,8 @@ My interest in technology has led me to develop a passion for cybersecurity, and
 
 ### Security Blue Team Level 1
 
+<a href="https://www.securityblue.team/why-btl1/">Blue Team Level One Website</a>
+
 BTL1 is designed to train technical defenders that are capable of defending networks and responding to cyber incidents. Examples of the skills and experience gained:
 - Analysing and responding to phishing attacks
 - Performing forensics investigations to collect and analyse digital evidence
@@ -18,8 +20,6 @@ BTL1 is designed to train technical defenders that are capable of defending netw
 - Conducting threat actor research
 
 <a href="https://github.com/AaronRMartinez/SecurityBlueTeam/blob/main/Blue%20Team%20Level%201-Certification.pdf">Blue Team Level One Certificate</a>
-<a href="https://www.securityblue.team/why-btl1/">Blue Team Level One Website</a>
-
 
 ### Languages
 - **Python**
