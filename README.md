@@ -14,7 +14,7 @@ Python, Javascript
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Blue Team Online Labs                         | <a href="https://google.com">BTLO Investi</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Python | <a href="https://github.com/AaronRMartinez/MITx-6.00.1x-Introduction-to-Computer-Science-and-Programming-Using-Python">Python Functions</a>|
 
 ## 🛠️ Tools
 
