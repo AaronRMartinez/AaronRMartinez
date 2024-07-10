@@ -4,7 +4,7 @@ Passionate and driven aspiring cybersecurity professional with a strong commitme
 
 ## 🎯 Objective
 
-My interest in technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC).
+My interest in technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
 
 ## 📖 Skills
 
