@@ -33,6 +33,8 @@ BTL1 is designed to train technical defenders that are capable of defending netw
 | Phishing Analysis                         | <a href="https://github.com/AaronRMartinez/Phishing-Analysis/tree/main">BTLO Investigations/Challenges</a>|
 | Digital Forensics | <a href="https://github.com/AaronRMartinez/Forensic-Analysis">BTLO Investigations/Challenges</a> |
 | Incident Response | <a href="https://github.com/AaronRMartinez/Incident-Response/tree/main">BTLO Investigations/Challenges</a> |
+| Threat Intelligence | <a href="https://github.com/AaronRMartinez/Incident-Response/tree/main">BTLO Investigations/Challenges</a> |
+
 
 ## 🛠️ Tools
 
