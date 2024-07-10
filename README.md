@@ -65,7 +65,7 @@ BTL1 is designed to train technical defenders that are capable of defending netw
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
-## Certifications
+## 📜 Certifications
 <div>
     <img src="https://img.shields.io/badge/-Security%20Blue%20Team%20Level%201-000080?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity-000080?&style=for-the-badge&logoColor=white" />
