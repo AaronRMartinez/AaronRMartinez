@@ -69,6 +69,7 @@ BTL1 is designed to train technical defenders that are capable of defending netw
 
 ## 📜 Certifications
 <div>
+    <img src="https://img.shields.io/badge/CompTIA%20Security+-black?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/-Security%20Blue%20Team%20Level%201-000080?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity-000080?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-CYBER525x%3A%20Cybersecurity%20Capstone-000080?&style=for-the-badge&logoColor=white" />
