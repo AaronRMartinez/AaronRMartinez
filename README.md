@@ -30,7 +30,7 @@ BTL1 is designed to train technical defenders that are capable of defending netw
 - **<a href="https://github.com/AaronRMartinez/MITx-6.00.1x-Introduction-to-Computer-Science-and-Programming-Using-Python">Python</a>**
 - **Javascript**
 
-### Other Skills
+### 🖥️ Blue Team Labs Online
 
 | Skill                                         | Associated Project(s)         |
 |-----------------------------------------------|----------------------------|
@@ -40,7 +40,7 @@ BTL1 is designed to train technical defenders that are capable of defending netw
 | Threat Intelligence | <a href="https://github.com/AaronRMartinez/Threat-Intelligence">BTLO Investigations/Challenges</a> |
 
 
-## 🛠️ Tools
+## 🧰 Tools
 
 ### Incident Response and Forensic Investigation
 <div>
