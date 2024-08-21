@@ -27,14 +27,13 @@ BTL1 is designed to train technical defenders that are capable of defending netw
 <a href="https://github.com/AaronRMartinez/SecurityBlueTeam/blob/main/Blue%20Team%20Level%201-Certification.pdf">Blue Team Level One Certificate</a>
 
 ### Languages
-- **Python**
+- **<a href="https://github.com/AaronRMartinez/MITx-6.00.1x-Introduction-to-Computer-Science-and-Programming-Using-Python">Python</a>**
 - **Javascript**
 
 ### Other Skills
 
 | Skill                                         | Associated Project(s)         |
 |-----------------------------------------------|----------------------------|
-| Python | <a href="https://github.com/AaronRMartinez/MITx-6.00.1x-Introduction-to-Computer-Science-and-Programming-Using-Python">Python Functions</a>|
 | Phishing Analysis                         | <a href="https://github.com/AaronRMartinez/Phishing-Analysis/tree/main">BTLO Investigations/Challenges</a>|
 | Digital Forensics | <a href="https://github.com/AaronRMartinez/Forensic-Analysis">BTLO Investigations/Challenges</a> |
 | Incident Response | <a href="https://github.com/AaronRMartinez/Incident-Response/tree/main">BTLO Investigations/Challenges</a> |
