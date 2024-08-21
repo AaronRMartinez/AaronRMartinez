@@ -7,8 +7,8 @@ Passionate and driven aspiring cybersecurity professional with a strong commitme
 My interest in technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
 
 ### Certificates
-<a href="https://github.com/AaronRMartinez/CompTIA-Certificates/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf">CompTIA Security+</a>
-<a href="https://github.com/AaronRMartinez/ISC2Certifications/blob/main/ISC2%20Certifications/ISC2CertifiedInCybersecurity.pdf">ISC2 Certified in Cybersecurity</a>
+- <a href="https://github.com/AaronRMartinez/CompTIA-Certificates/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf">CompTIA Security+</a>
+- <a href="https://github.com/AaronRMartinez/ISC2Certifications/blob/main/ISC2%20Certifications/ISC2CertifiedInCybersecurity.pdf">ISC2 Certified in Cybersecurity</a>
 
 
 ## 📖 Skills
