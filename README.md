@@ -10,6 +10,10 @@ My interest in technology has led me to develop a passion for cybersecurity, and
 - <a href="https://github.com/AaronRMartinez/CompTIA-Certificates/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf">CompTIA Security+</a>
 - <a href="https://github.com/AaronRMartinez/ISC2Certifications/blob/main/ISC2%20Certifications/ISC2CertifiedInCybersecurity.pdf">ISC2 Certified in Cybersecurity</a>
 
+## 🛠️ Projects
+
+**Microsoft Sentinel Home Lab**
+Using a Powershell script that parses out Windows Event Log information for failed RDP attacks on a virtual machine hosted on Azure. Then using a third party API to collect geographic information about the attackers location and creating a Microsoft Sentinel (SIEM) workbook to display the physical location and magnitude of the attacks on a world map. 
 
 ## 📖 Skills
 
