@@ -18,6 +18,9 @@ My interest in technology has led me to develop a passion for cybersecurity, and
 
 Using a Powershell script that parses out Windows Event Log information for failed RDP attacks on a virtual machine hosted on Azure. Then using a third party API to collect geographic information about the attackers location and creating a Microsoft Sentinel (SIEM) workbook to display the physical location and magnitude of the attacks on a world map. 
 
+<a href="https://github.com/AaronRMartinez/Microsoft-Sentinel-Home-Lab">Project Link</a>
+
+
 ## 📖 Skills
 
 ### Security Blue Team Level 1
