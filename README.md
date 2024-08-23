@@ -8,6 +8,9 @@ My interest in technology has led me to develop a passion for cybersecurity, and
 
 ### Cybersecurity Certificates
 
+<a href="https://github.com/AaronRMartinez/RITx-MicroMasters-Cybersecurity-Certifications/blob/main/RITx%20MicroMasters%20Program/MicroMastersCybersecurityCertificate.pdf">RITx MicroMasters Cybersecurity</a>
+
+
 <a href="https://github.com/AaronRMartinez/CompTIA-Certificates/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf">CompTIA Security+</a>
 
 <a href="https://github.com/AaronRMartinez/SecurityBlueTeam/blob/main/Blue%20Team%20Level%201-Certification.pdf">Security Blue Team Level 1</a>
