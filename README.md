@@ -20,7 +20,7 @@ My interest in technology has led me to develop a passion for cybersecurity, and
 
 **Microsoft Sentinel Home Lab**
 
-Using a Powershell script that parses out Windows Event Log information for failed RDP attacks on a virtual machine hosted on Azure. Then using a third party API to collect geographic information about the attackers location and creating a Microsoft Sentinel (SIEM) workbook to display the physical location and magnitude of the attacks on a world map. 
+Used a Powershell script to parse out Windows Event Log information for failed RDP attacks on a virtual machine hosted on Azure. I then used the parsed Event Log information and a third party API to collect the geographic information of the attack location. Finally, I created a Microsoft Sentinel (SIEM) workbook to display the physical location and magnitude of the attacks on a world map. 
 
 <a href="https://github.com/AaronRMartinez/Microsoft-Sentinel-Home-Lab">Project Link</a>
 
