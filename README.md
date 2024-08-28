@@ -26,6 +26,8 @@ Used a Powershell script to parse out Windows Event Log information for failed R
 
 **Nessus Vulnerability Management Home Lab**
 
+Installed VMware Workstation Player on a system that would be hosting several virtual machines configured with a downloaded Windows 10 ISO file. Nessus Essentials was also downloaded and installed on the host system. To ensure that Nessus could connect and run credentialed scans on the virtual machines, connectivity between the host system and the virtual machines was confirmed and Nessus was provided with the necessary credentials. Credential scans were run and in a trial, a deprecated version of Firefox was installed on a virtual machine to observe and note the inherent vulnerabilities present with the software. With a list of recommended remediations offered by Nessus, the remediations were conducted and the virtual machine was hardened.
+
 <a href="https://github.com/AaronRMartinez/Nessus-Vulnerability-Management-Home-Lab">Project Link</a>
 
 ## 📖 Skills
