@@ -24,6 +24,9 @@ Used a Powershell script to parse out Windows Event Log information for failed R
 
 <a href="https://github.com/AaronRMartinez/Microsoft-Sentinel-Home-Lab">Project Link</a>
 
+**Nessus Vulnerability Management Home Lab**
+
+<a href="https://github.com/AaronRMartinez/Nessus-Vulnerability-Management-Home-Lab"></a>
 
 ## 📖 Skills
 
