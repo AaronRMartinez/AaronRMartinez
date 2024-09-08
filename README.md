@@ -18,6 +18,12 @@ My interest in technology has led me to develop a passion for cybersecurity, and
 
 ## 🛠️ Projects
 
+**Active Directory and Group Policy Home Lab**
+
+To be added soon...
+
+<a href="https://github.com/AaronRMartinez/Active-Directory-and-Group-Policy-Home-Lab">Project Link</a>
+
 **Microsoft Sentinel Home Lab**
 
 Used a Powershell script to parse out Windows Event Log information for failed RDP attacks on a virtual machine hosted on Azure. I then used the parsed Event Log information and a third party API to collect the geographic information of the attack location. Finally, I created a Microsoft Sentinel (SIEM) workbook to display the physical location and magnitude of the attacks on a world map. 
