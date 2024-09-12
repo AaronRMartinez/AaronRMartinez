@@ -4,7 +4,7 @@ Passionate and driven aspiring cybersecurity professional with a strong commitme
 
 ## 🎯 Objective
 
-My interest in technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
+My long-standing interest in technology has fueled my passion for cybersecurity. This GitHub profile serves not only as a digital portfolio but also as a repository for personal projects and accomplishments. As I continue to pursue my passion and education in this field, I intend to expand this repository well into the future.
 
 ### Cybersecurity Certificates
 
