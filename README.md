@@ -22,7 +22,7 @@ My long-standing interest in technology has fueled my passion for cybersecurity.
 
 In this lab, I used Oracle VM VirtualBox to run virtual machines for both Windows Server and Windows 10 operating systems. A domain controller was established using the Windows Server ISO, and the domain was created afterward. The domain controller was then configured with NAT, routing, and DHCP. With the domain controller set up, numerous common AD procedures were exercised. Methods involving Group Policy, including software deployment, domain password and account lockout policies, password policy enforcement, and Windows Firewall configuration, were also applied. PowerShell scripts were also executed to accomplish administrative tasks such as creating user accounts or moving disabled user accounts to a designated organizational unit (OU).
 
-<a href="https://github.com/AaronRMartinez/Active-Directory-and-Group-Policy-Home-Lab">Active Directory & Group Policy Project Link</a>
+<a href="https://github.com/AaronRMartinez/Active-Directory-and-Group-Policy-Home-Lab">Active Directory and Group Policy Project Link</a>
 
 **Microsoft Sentinel Home Lab**
 
