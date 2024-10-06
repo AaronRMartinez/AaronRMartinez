@@ -16,7 +16,11 @@ My long-standing interest in technology has fueled my passion for cybersecurity.
 
 <a href="https://github.com/AaronRMartinez/ISC2Certifications/blob/main/ISC2%20Certifications/ISC2CertifiedInCybersecurity.pdf">ISC2 Certified in Cybersecurity</a>
 
-## 🛠️ Projects
+## 🏆 Recent Accomplishments/Projects
+
+<a href="">Commonwealth Bank Introduction to Cybersecurity Job Simulation on Forage - October 2024</a>
+
+## 🛠️ Marquee Projects
 
 **Active Directory and Group Policy Home Lab**
 
