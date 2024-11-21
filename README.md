@@ -20,6 +20,8 @@ My long-standing interest in technology has fueled my passion for cybersecurity.
 
 <a href="https://github.com/AaronRMartinez/TheForage-Commonwealth-Bank-Job-Simulation/tree/main">Commonwealth Bank Introduction to Cybersecurity Job Simulation on Forage - October 2024</a>
 
+I am currently working on obtaining CyberDefender's Certified Cyberdefender (CCD) certification by the end of the year (2024).
+
 ## 🛠️ Marquee Projects
 
 **Active Directory and Group Policy Home Lab**
