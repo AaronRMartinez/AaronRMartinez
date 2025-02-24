@@ -18,9 +18,11 @@ My long-standing interest in technology has fueled my passion for cybersecurity.
 
 ## 🏆 Recent Accomplishments/Projects/Activities
 
-<a href="https://github.com/AaronRMartinez/TheForage-Commonwealth-Bank-Job-Simulation/tree/main">Commonwealth Bank Introduction to Cybersecurity Job Simulation on Forage - October 2024</a>
+Currently waiting on CyberDefender's Certified Cyberdefender (CCD) certification exam results. *(Feb 2025)*
 
-I am currently working on obtaining CyberDefender's Certified Cyberdefender (CCD) certification by the end of the year (2024).
+<a href="https://github.com/AaronRMartinez/CyberDefenders-Blue-Team-Labs/tree/main">CyberDefenders Blue Team Lab Completions</a> *(Updated In: Feb 2025)*
+
+<a href="https://github.com/AaronRMartinez/TheForage-Commonwealth-Bank-Job-Simulation/tree/main">Commonwealth Bank Introduction to Cybersecurity Job Simulation on Forage - October 2024</a>
 
 ## 🛠️ Marquee Projects
 
