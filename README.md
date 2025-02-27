@@ -16,6 +16,8 @@ I'm a passionate and driven aspiring cybersecurity professional that loves tackl
 
 Currently waiting on CyberDefender's Certified Cyberdefender (CCD) certification exam results. *(Feb 2025)*
 
+<a href="https://github.com/AaronRMartinez/Vulnerability-Management-Program-Implementation">Vulnerability Management Program Implementation</a> *(Feb 2025)*
+
 <a href="https://github.com/AaronRMartinez/CyberDefenders-Blue-Team-Labs/tree/main">CyberDefenders Blue Team Lab Completions</a> *(Updated In: Feb 2025)*
 
 <a href="https://github.com/AaronRMartinez/TheForage-Commonwealth-Bank-Job-Simulation/tree/main">Commonwealth Bank Introduction to Cybersecurity Job Simulation on Forage</a> *(Oct 2024)*
