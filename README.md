@@ -2,10 +2,6 @@
 
 I'm a passionate and driven aspiring cybersecurity professional with a strong commitment to continuous learning and staying up to date with the latest industry trends. I have built a solid foundation through self-directed studies, relevant courses, training, and practical projects. My interest in cybersecurity dates back to high school, where I regularly jailbroke electronics to unlock features. Whether purchasing cybersecurity-related books or participating in CTF exercises in my free time, my interest in the field has been longstanding.
 
-## 🎯 Objective
-
-My long-standing interest in technology has fueled my passion for cybersecurity. This GitHub profile serves not only as a digital portfolio but also as a repository for personal projects and accomplishments. As I continue to pursue my passion and education in this field, I intend to expand this repository well into the future.
-
 ### Cybersecurity Certificates
 
 <a href="https://github.com/AaronRMartinez/RITx-MicroMasters-Cybersecurity-Certifications/tree/main">RITx MicroMasters Cybersecurity</a>
