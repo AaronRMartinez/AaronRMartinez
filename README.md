@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Aaron
+# 👋 Hello, I'm <a href="https://www.linkedin.com/in/aaron-m-59725a332/">Aaron</a>
 
 I'm a passionate and driven aspiring cybersecurity professional with a strong commitment to continuous learning and staying up to date with the latest industry trends. I have built a solid foundation through self-directed studies, relevant courses, training, and practical projects. My interest in cybersecurity dates back to high school, where I regularly jailbroke electronics to unlock features. Whether purchasing cybersecurity-related books or participating in CTF exercises in my free time, my interest in the field has been longstanding.
 
