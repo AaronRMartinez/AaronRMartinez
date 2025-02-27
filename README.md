@@ -1,8 +1,8 @@
 # 👋 Hello, I'm <a href="https://www.linkedin.com/in/aaron-m-59725a332/">Aaron</a>
 
-I'm a passionate and driven aspiring cybersecurity professional with a strong commitment to continuous learning and staying up to date with the latest industry trends. I have built a solid foundation through self-directed studies, relevant courses, training, and practical projects. My interest in cybersecurity dates back to high school, where I regularly jailbroke electronics to unlock features. Whether purchasing cybersecurity-related books or participating in CTF exercises in my free time, my interest in the field has been longstanding.
+I'm a passionate and driven aspiring cybersecurity professional that loves tackling complex challenges through hands-on projects or labs. From vulnerability management to threat detection, or participating in Blue Team labs, these projects and labs allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check out my projects and labs to see the work I’ve put into enhancing security operations and processes!
 
-### Cybersecurity Certificates
+### 📜 Cybersecurity Certificates
 
 <a href="https://github.com/AaronRMartinez/RITx-MicroMasters-Cybersecurity-Certifications/tree/main">RITx MicroMasters Cybersecurity</a>
 
