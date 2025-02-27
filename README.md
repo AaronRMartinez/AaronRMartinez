@@ -1,4 +1,4 @@
-# 👋 Hello, I'm <a href="https://www.linkedin.com/in/aaron-m-59725a332/">Aaron</a>
+# 👋 Hello, I'm <a href="https://www.linkedin.com/in/aaron-m-59725a332/">Aaron Martinez</a>
 
 I'm a passionate and driven aspiring cybersecurity professional that loves tackling complex challenges through hands-on projects or labs. From vulnerability management to threat detection, or participating in Blue Team labs, these projects and labs allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check out my projects and labs to see the work I’ve put into enhancing security operations and processes!
 
