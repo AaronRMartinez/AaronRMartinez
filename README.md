@@ -28,6 +28,12 @@ Currently waiting on CyberDefender's Certified Cyberdefender (CCD) certification
 
 ## 🛠️ Marquee Projects
 
+**Vulnerability Management Program Implementation Lab**
+
+The Vulnerability Management Program Implementation lab demonstrates a simulated implementation of a comprehensive Vulnerability Management Program (VMP) within an organization. The project documents the journey from having no existing vulnerability management practices to the successful establishment and execution of a formalized program.
+
+<a href="https://github.com/AaronRMartinez/Vulnerability-Management-Program-Implementation">Vulnerability Management Program Implementation</a>
+
 **"Threat Hunting Scenario: Tor" Lab**
 
 The "Threat Hunting Scenario: Tor" lab provides a structured approach to detecting unauthorized Tor browser usage within an enterprise environment. This scenario depicts a scenario in which a security team memmber aimis to identify employees or attackers attempting to bypass network security controls using Tor for anonymous browsing. By leveraging Microsoft Defender for Endpoint (MDE) and Kusto Query Language (KQL), a methodical process is done to monitor, detect, and analyze Tor-related activity in a Windows 10 environment deployed within Microsoft Azure.
