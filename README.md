@@ -32,7 +32,7 @@ Currently waiting on CyberDefender's Certified Cyberdefender (CCD) certification
 
 The "Threat Hunting Scenario: Tor" lab provides a structured approach to detecting unauthorized Tor browser usage within an enterprise environment. This scenario depicts a scenario in which a security team memmber aimis to identify employees or attackers attempting to bypass network security controls using Tor for anonymous browsing. By leveraging Microsoft Defender for Endpoint (MDE) and Kusto Query Language (KQL), a methodical process is done to monitor, detect, and analyze Tor-related activity in a Windows 10 environment deployed within Microsoft Azure.
 
-<a href="https://github.com/AaronRMartinez/Threat-Hunting-Scenario-Tor">Threat Hunting Scenario: Tor</a> *(Mar 2025)*
+<a href="https://github.com/AaronRMartinez/Threat-Hunting-Scenario-Tor">Threat Hunting Scenario: Tor</a>
 
 **Active Directory and Group Policy Home Lab**
 
