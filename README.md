@@ -28,6 +28,12 @@ Currently waiting on CyberDefender's Certified Cyberdefender (CCD) certification
 
 ## 🛠️ Marquee Projects
 
+**"Threat Hunting Scenario: Tor" Lab**
+
+The "Threat Hunting Scenario: Tor" lab provides a structured approach to detecting unauthorized Tor browser usage within an enterprise environment. This scenario depicts a scenario in which a security team memmber aimis to identify employees or attackers attempting to bypass network security controls using Tor for anonymous browsing. By leveraging Microsoft Defender for Endpoint (MDE) and Kusto Query Language (KQL), a methodical process is done to monitor, detect, and analyze Tor-related activity in a Windows 10 environment deployed within Microsoft Azure.
+
+<a href="https://github.com/AaronRMartinez/Threat-Hunting-Scenario-Tor">Threat Hunting Scenario: Tor</a> *(Mar 2025)*
+
 **Active Directory and Group Policy Home Lab**
 
 In this lab, I used Oracle VM VirtualBox to run virtual machines for both Windows Server and Windows 10 operating systems. A domain controller was established using the Windows Server ISO, and the domain was created afterward. The domain controller was then configured with NAT, routing, and DHCP. With the domain controller set up, numerous common AD procedures were exercised. Methods involving Group Policy, including software deployment, domain password and account lockout policies, password policy enforcement, and Windows Firewall configuration, were also applied. PowerShell scripts were also executed to accomplish administrative tasks such as creating user accounts or moving disabled user accounts to a designated organizational unit (OU).
