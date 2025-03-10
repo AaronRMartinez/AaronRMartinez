@@ -28,15 +28,15 @@ Currently waiting on CyberDefender's Certified Cyberdefender (CCD) certification
 
 ## 🛠️ Marquee Projects
 
-**Vulnerability Management Program Implementation Lab**
+**Vulnerability Management Program Implementation Project**
 
 In my Vulnerability Management Program Implementation lab, I simulated the implementation of a comprehensive Vulnerability Management Program (VMP) within an organization. The project documents the journey from having no existing vulnerability management practices to the successful establishment and execution of a formalized program.
 
 <a href="https://github.com/AaronRMartinez/Vulnerability-Management-Program-Implementation">Vulnerability Management Program Implementation Project Link</a>
 
-**"Threat Hunting Scenario: Tor" Lab**
+**"Threat Hunting Scenario: Unauthorized Tor Usage" Project**
 
-The "Threat Hunting Scenario: Tor" lab provides a structured approach to detecting unauthorized Tor browser usage within an enterprise environment. This scenario depicts a scenario in which a security team memmber aimis to identify employees or attackers attempting to bypass network security controls using Tor for anonymous browsing. By leveraging Microsoft Defender for Endpoint (MDE) and Kusto Query Language (KQL), a methodical process is done to monitor, detect, and analyze Tor-related activity in a Windows 10 environment deployed within Microsoft Azure.
+My "Threat Hunting Scenario: Unauthorized Tor Usage" project demonstrates a structured approach to detecting unauthorized Tor browser usage within an enterprise environment. This project imitates a scenario in which a security team memmber aimis to identify employees or attackers attempting to bypass network security controls using Tor for anonymous browsing. By leveraging Microsoft Defender for Endpoint (MDE) and Kusto Query Language (KQL), a methodical process is undergone to monitor, detect, and analyze Tor-related activity in a Windows 10 environment deployed within Microsoft Azure.
 
 <a href="https://github.com/AaronRMartinez/Threat-Hunting-Scenario-Tor">Threat Hunting Scenario: Tor Project Link</a>
 
