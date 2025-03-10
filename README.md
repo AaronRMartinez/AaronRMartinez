@@ -30,7 +30,7 @@ Currently waiting on CyberDefender's Certified Cyberdefender (CCD) certification
 
 **Vulnerability Management Program Implementation Lab**
 
-The Vulnerability Management Program Implementation lab demonstrates a simulated implementation of a comprehensive Vulnerability Management Program (VMP) within an organization. The project documents the journey from having no existing vulnerability management practices to the successful establishment and execution of a formalized program.
+In my Vulnerability Management Program Implementation lab, I simulated the implementation of a comprehensive Vulnerability Management Program (VMP) within an organization. The project documents the journey from having no existing vulnerability management practices to the successful establishment and execution of a formalized program.
 
 <a href="https://github.com/AaronRMartinez/Vulnerability-Management-Program-Implementation">Vulnerability Management Program Implementation Project Link</a>
 
