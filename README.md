@@ -14,7 +14,7 @@ I'm a passionate and driven aspiring cybersecurity professional that loves tackl
 
 ## 🏆 Recent Accomplishments/Projects/Activities
 
-Currently waiting on CyberDefender's Certified Cyberdefender (CCD) certification exam results. *(Feb 2025)*
+Studying to take the CyberDefender's Certified Cyberdefender (CCD) certification exam . *(Mar 2025)*
 
 <a href="https://github.com/AaronRMartinez/STIG-Remediations">STIG Remediations</a> *(Updated In: Mar 2025)*
 
