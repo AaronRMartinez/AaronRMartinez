@@ -31,7 +31,10 @@ Studying to take the CyberDefender's Certified Cyberdefender (CCD) certification
 ## 🛠️ Marquee Projects
 
 **"Threat Hunting Scenario: Unauthorized Tor Usage" Project**
-ds
+
+The purpose of this project was to emulate common actions a threat actor would perform once they would gain access to a system. In this scenario, the threat actor downloaded a malicious executable that once executed, would perform several encoded PowerShell commands on the endpoint. The malicious executable downloaded several hacking tools and a PowerShell script intended to be used for a scheduled task for persistence. The executable would then create the scheduled task and conducted non-intrusive network reconnaissance on the endpoint. The malicious executable was personally written to conduct specific tasks desired for the project.
+
+<a href="https://github.com/AaronRMartinez/Threat-Hunting-Scenario-Compromise">"Threat Hunting Scenario: System Compromise" Project Link</a>
 
 **Vulnerability Management Program Implementation Project**
 
@@ -43,7 +46,7 @@ In my Vulnerability Management Program Implementation lab, I simulated the imple
 
 My "Threat Hunting Scenario: Unauthorized Tor Usage" project demonstrates a structured approach to detecting unauthorized Tor browser usage within an enterprise environment. This project imitates a scenario in which a security team memmber aimis to identify employees or attackers attempting to bypass network security controls using Tor for anonymous browsing. By leveraging Microsoft Defender for Endpoint (MDE) and Kusto Query Language (KQL), a methodical process is undergone to monitor, detect, and analyze Tor-related activity in a Windows 10 environment deployed within Microsoft Azure.
 
-<a href="https://github.com/AaronRMartinez/Threat-Hunting-Scenario-Tor">Threat Hunting Scenario: Tor Project Link</a>
+<a href="https://github.com/AaronRMartinez/Threat-Hunting-Scenario-Tor">"Threat Hunting Scenario: Tor" Project Link</a>
 
 **Active Directory and Group Policy Home Lab**
 
