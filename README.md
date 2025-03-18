@@ -30,7 +30,7 @@ Studying to take the CyberDefender's Certified Cyberdefender (CCD) certification
 
 ## 🛠️ Marquee Projects
 
-**"Threat Hunting Scenario: Unauthorized Tor Usage" Project**
+**"Threat Hunting Scenario: Unauthorized System Compromise" Project**
 
 The purpose of this project was to emulate common actions a threat actor would perform once they would gain access to a system. In this scenario, the threat actor downloaded a malicious executable that once executed, would perform several encoded PowerShell commands on the endpoint. The malicious executable downloaded several hacking tools and a PowerShell script intended to be used for a scheduled task for persistence. The executable would then create the scheduled task and conducted non-intrusive network reconnaissance on the endpoint. The malicious executable was personally written to conduct specific tasks desired for the project.
 
