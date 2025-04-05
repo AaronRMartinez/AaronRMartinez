@@ -18,13 +18,13 @@ Studying to take the CyberDefender's Certified Cyberdefender (CCD) certification
 
 <a href="https://github.com/AaronRMartinez/Threat-Hunting-Diicot-Mexals-Threat-Group/blob/main/README.md">Threat Hunting: Diicot Threat Group</a> *(April 2025)*
 
+<a href="https://github.com/AaronRMartinez/CyberDefenders-Blue-Team-Labs/tree/main">CyberDefenders Blue Team Lab Completions</a> *(Updated In: April 2025)*
+
 <a href="https://github.com/AaronRMartinez/Threat-Hunting-Scenario-Compromise">Threat Hunting Scenario: System Compromise</a> *(Mar 2025)*
 
 <a href="https://github.com/AaronRMartinez/STIG-Remediations">STIG Remediations</a> *(Updated In: Mar 2025)*
 
 <a href="https://github.com/AaronRMartinez/Threat-Hunting-Scenario-Tor">Threat Hunting Scenario: Tor</a> *(Mar 2025)*
-
-<a href="https://github.com/AaronRMartinez/CyberDefenders-Blue-Team-Labs/tree/main">CyberDefenders Blue Team Lab Completions</a> *(Updated In: Mar 2025)*
 
 <a href="https://github.com/AaronRMartinez/Vulnerability-Management-Program-Implementation">Vulnerability Management Program Implementation</a> *(Feb 2025)*
 
