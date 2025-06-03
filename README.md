@@ -14,9 +14,9 @@ I'm a passionate and driven aspiring cybersecurity professional that loves tackl
 
 ## 🏆 Recent Accomplishments/Projects/Activities
 
-Studying to take the CyberDefender's Certified Cyberdefender (CCD) certification exam. *(May 2025)*
+Studying to take the CyberDefender's Certified Cyberdefender (CCD) certification exam. *(June 2025)*
 
-<a href="https://github.com/AaronRMartinez/CyberDefenders-Blue-Team-Labs/tree/main">CyberDefenders Blue Team Lab Completions</a> *(Updated In: May 2025)*
+<a href="https://github.com/AaronRMartinez/CyberDefenders-Blue-Team-Labs/tree/main">CyberDefenders Blue Team Lab Completions</a> *(Updated In: June 2025)*
 
 <a href="https://github.com/AaronRMartinez/Threat-Hunting-Diicot-Mexals-Threat-Group/blob/main/README.md">Threat Hunting: Diicot Threat Group</a> *(April 2025)*
 
