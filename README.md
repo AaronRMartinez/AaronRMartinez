@@ -28,43 +28,21 @@ Studying to take the CyberDefender's Certified Cyberdefender (CCD) certification
 
 <a href="https://github.com/AaronRMartinez/Vulnerability-Management-Program-Implementation">Vulnerability Management Program Implementation</a> *(Feb 2025)*
 
-## 🛠️ Marquee Projects
+## 🛠️ Projects
 
-**"Threat Hunting Scenario: Unauthorized System Compromise" Project**
+### Vulnerability Management and GRC Projects
 
-The purpose of this project was to emulate common actions a threat actor would perform once they would gain access to a system. In this scenario, the threat actor downloaded a malicious executable that once executed, would perform several encoded PowerShell commands on the endpoint. The malicious executable downloaded several hacking tools and a PowerShell script intended to be used for a scheduled task for persistence. The executable would then create the scheduled task and conducted non-intrusive network reconnaissance on the endpoint. The malicious executable was personally written to conduct specific tasks desired for the project.
+* <a href="https://github.com/AaronRMartinez/Vulnerability-Management-Program-Implementation">Vulnerability Management Program Implementation</a>
+* <a href="https://github.com/AaronRMartinez/Active-Directory-and-Group-Policy-Home-Lab">Active Directory and Group Policy</a>
+* <a href="https://github.com/AaronRMartinez/Nessus-Vulnerability-Management-Home-Lab">Nessus Vulnerability Management Project Link</a>
 
-<a href="https://github.com/AaronRMartinez/Threat-Hunting-Scenario-Compromise">"Threat Hunting Scenario: System Compromise" Project Link</a>
+### Security Operations and Threat Hunting Projects
 
-**Vulnerability Management Program Implementation Project**
+* <a href="https://github.com/AaronRMartinez/Threat-Hunting-Scenario-Compromise">Threat Hunting Scenario: System Compromise</a>
+* <a href="https://github.com/AaronRMartinez/Threat-Hunting-Scenario-Tor">Threat Hunting Scenario: Tor</a>
+* <a href="https://github.com/AaronRMartinez/Microsoft-Sentinel-Home-Lab">Microsoft Sentinel</a>
 
-In my Vulnerability Management Program Implementation lab, I simulated the implementation of a comprehensive Vulnerability Management Program (VMP) within an organization. The project documents the journey from having no existing vulnerability management practices to the successful establishment and execution of a formalized program.
-
-<a href="https://github.com/AaronRMartinez/Vulnerability-Management-Program-Implementation">Vulnerability Management Program Implementation Project Link</a>
-
-**"Threat Hunting Scenario: Unauthorized Tor Usage" Project**
-
-My "Threat Hunting Scenario: Unauthorized Tor Usage" project demonstrates a structured approach to detecting unauthorized Tor browser usage within an enterprise environment. This project imitates a scenario in which a security team memmber aimis to identify employees or attackers attempting to bypass network security controls using Tor for anonymous browsing. By leveraging Microsoft Defender for Endpoint (MDE) and Kusto Query Language (KQL), a methodical process is undergone to monitor, detect, and analyze Tor-related activity in a Windows 10 environment deployed within Microsoft Azure.
-
-<a href="https://github.com/AaronRMartinez/Threat-Hunting-Scenario-Tor">"Threat Hunting Scenario: Tor" Project Link</a>
-
-**Active Directory and Group Policy Home Lab**
-
-In this lab, I used Oracle VM VirtualBox to run virtual machines for both Windows Server and Windows 10 operating systems. A domain controller was established using the Windows Server ISO, and the domain was created afterward. The domain controller was then configured with NAT, routing, and DHCP. With the domain controller set up, numerous common AD procedures were exercised. Methods involving Group Policy, including software deployment, domain password and account lockout policies, password policy enforcement, and Windows Firewall configuration, were also applied. PowerShell scripts were also executed to accomplish administrative tasks such as creating user accounts or moving disabled user accounts to a designated organizational unit (OU).
-
-<a href="https://github.com/AaronRMartinez/Active-Directory-and-Group-Policy-Home-Lab">Active Directory and Group Policy Project Link</a>
-
-**Microsoft Sentinel Home Lab**
-
-Used a Powershell script to parse out Windows Event Log information for failed RDP attacks on a virtual machine hosted on Azure. I then used the parsed Event Log information and a third party API to collect the geographic information of the attack location. Finally, I created a Microsoft Sentinel (SIEM) workbook to display the physical location and magnitude of the attacks on a world map. 
-
-<a href="https://github.com/AaronRMartinez/Microsoft-Sentinel-Home-Lab">Microsoft Sentinel Project Link</a>
-
-**Nessus Vulnerability Management Home Lab**
-
-Installed VMware Workstation Player on a system that would be hosting several virtual machines configured with a downloaded Windows 10 ISO file. Nessus Essentials was also downloaded and installed on the host system. To ensure that Nessus could connect and run credentialed scans on the virtual machines, connectivity between the host system and the virtual machines was confirmed and Nessus was provided with the necessary credentials. Credential scans were run and in a trial, a deprecated version of Firefox was installed on a virtual machine to observe and note the inherent vulnerabilities present with the software. With a list of recommended remediations offered by Nessus, the remediations were conducted and the virtual machine was hardened.
-
-<a href="https://github.com/AaronRMartinez/Nessus-Vulnerability-Management-Home-Lab">Nessus Vulnerability Management Project Link</a>
+### Python Projects and Tools
 
 ## 📖 Skills
 
