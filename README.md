@@ -14,19 +14,13 @@ I'm a passionate and driven aspiring cybersecurity professional that loves tackl
 
 ## 🏆 Recent Accomplishments/Projects/Activities
 
+Studying to take CompTIA CySA+ *(June 2025)*
 Studying to take the CyberDefender's Certified Cyberdefender (CCD) certification exam. *(June 2025)*
-
+<a href="https://github.com/AaronRMartinez/Python-Projects/tree/main/Cybersecurity%20Projects/Cybersecurity%20Tools/TraceRouting%20Script">Python Tracerouting Tool</a> *(June 2025)*
 <a href="https://github.com/AaronRMartinez/CyberDefenders-Blue-Team-Labs/tree/main">CyberDefenders Blue Team Lab Completions</a> *(Updated In: June 2025)*
-
+<a href="https://github.com/AaronRMartinez/Threat-Hunting-Scenario-Deep-Access-The-Adversary">Threat Hunting Scenario: Deep Access-The Adversary</a> *(June 2025)*
 <a href="https://github.com/AaronRMartinez/Threat-Hunting-Diicot-Mexals-Threat-Group/blob/main/README.md">Threat Hunting: Diicot Threat Group</a> *(April 2025)*
-
-<a href="https://github.com/AaronRMartinez/Threat-Hunting-Scenario-Compromise">Threat Hunting Scenario: System Compromise</a> *(Mar 2025)*
-
 <a href="https://github.com/AaronRMartinez/STIG-Remediations">STIG Remediations</a> *(Updated In: Mar 2025)*
-
-<a href="https://github.com/AaronRMartinez/Threat-Hunting-Scenario-Tor">Threat Hunting Scenario: Tor</a> *(Mar 2025)*
-
-<a href="https://github.com/AaronRMartinez/Vulnerability-Management-Program-Implementation">Vulnerability Management Program Implementation</a> *(Feb 2025)*
 
 ## 🛠️ Projects
 
@@ -38,11 +32,14 @@ Studying to take the CyberDefender's Certified Cyberdefender (CCD) certification
 
 ### Security Operations and Threat Hunting Projects
 
+* <a href="https://github.com/AaronRMartinez/Threat-Hunting-Scenario-Deep-Access-The-Adversary">Threat Hunting Scenario: Deep Access-The Adversary</a>
 * <a href="https://github.com/AaronRMartinez/Threat-Hunting-Scenario-Compromise">Threat Hunting Scenario: System Compromise</a>
 * <a href="https://github.com/AaronRMartinez/Threat-Hunting-Scenario-Tor">Threat Hunting Scenario: Tor</a>
 * <a href="https://github.com/AaronRMartinez/Microsoft-Sentinel-Home-Lab">Microsoft Sentinel</a>
 
 ### Python Projects and Tools
+
+* <a href="https://github.com/AaronRMartinez/Python-Projects/tree/main/Cybersecurity%20Projects/Cybersecurity%20Tools/TraceRouting%20Script">Python Tracerouting Tool</a>
 
 ## 📖 Skills
 
