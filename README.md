@@ -5,11 +5,8 @@ I'm a passionate and driven aspiring cybersecurity professional that loves tackl
 ### 📜 Cybersecurity Certificates
 
 <a href="https://github.com/AaronRMartinez/RITx-MicroMasters-Cybersecurity-Certifications/tree/main">RITx MicroMasters Cybersecurity</a>
-
 <a href="https://github.com/AaronRMartinez/CompTIA-Certificates/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf">CompTIA Security+</a>
-
 <a href="https://github.com/AaronRMartinez/SecurityBlueTeam/tree/main">Security Blue Team Level 1</a>
-
 <a href="https://github.com/AaronRMartinez/ISC2Certifications/blob/main/ISC2%20Certifications/ISC2CertifiedInCybersecurity.pdf">ISC2 Certified in Cybersecurity</a>
 
 ## 🏆 Recent Accomplishments/Projects/Activities
