@@ -34,7 +34,7 @@ I'm a passionate and driven aspiring cybersecurity professional that loves tackl
 * <a href="https://github.com/AaronRMartinez/Threat-Hunting-Scenario-Tor">Threat Hunting Scenario: Tor</a>
 * <a href="https://github.com/AaronRMartinez/Microsoft-Sentinel-Home-Lab">Microsoft Sentinel</a>
 
-### Python Projects and Tools
+### Coding Projects and Tools
 
 * <a href="https://github.com/AaronRMartinez/STIG-Remediations">STIG Remediations</a>
 * <a href="https://github.com/AaronRMartinez/Python-Projects/tree/main/Cybersecurity%20Projects/Cybersecurity%20Tools/TraceRouting%20Script">Python Tracerouting Tool</a>
